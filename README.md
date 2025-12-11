@@ -19,7 +19,7 @@
 
 | **Arkicons UI** ![WIP](https://img.shields.io/badge/WIP-orange?style=flat-square&labelColor=black) | **WhatsApp Omni-Bot** |
 |:---|:---|
-| <br>**High-End Product Catalog**<br>A modern architectural showcase built with `React` and `Vite`. Features a smooth, animation-driven UI designed to highlight premium construction materials.<br><br>• &nbsp; [Source Code](https://github.com/Isaacdlg/Arkicons-UI)<br><br> | <br>**Automated CRM System**<br>A complex `Node.js` & `Python` automation capable of managing 24/7 client interactions and sales flows for streaming services. Integrates directly with WhatsApp.<br><br>• &nbsp; [Source Code](https://github.com/IsaacDlg/Creating-my-first-AI-powered-WhatsApp-bot)<br><br> |
+| <br>**High-End Product Catalog**<br>A modern architectural showcase built with `React` and `Vite`. Features a smooth, animation-driven UI designed to highlight premium construction materials.<br><br>• &nbsp; [Source Code](https://github.com/Isaacdlg/Arkicons-UI)<br><br> | <br>**Automated CRM System**<br>A complex `Node.js` , `JavaSript` & `Docker` automation capable of managing 24/7 client interactions and sales flows for streaming services. Integrates directly with WhatsApp.<br><br>• &nbsp; [Source Code](https://github.com/IsaacDlg/Creating-my-first-AI-powered-WhatsApp-bot)<br><br> |
 
 | **Neon Tetris** | **Java Task Manager** |
 |:---|:---|
